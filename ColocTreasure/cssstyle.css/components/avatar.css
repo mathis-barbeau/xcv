@@ -1,0 +1,26 @@
+
+.avatar {
+    position: absolute;
+    top: 30px;
+    right: 50px;
+}
+
+.avatar {
+	width: 81px;
+	height: 90px;
+	border-radius: 50%;
+}
+
+.avatar {
+    color: white;
+}
+
+.avatar p {
+    white-space: nowrap;
+}
+
+.avatar p {
+    white-space: nowrap;
+    margin: -68px;
+	margin-top: 115px;
+}
